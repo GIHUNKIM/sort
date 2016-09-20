@@ -1,7 +1,7 @@
 '''
-Created on 2014.9.1
+Created on 2016.9.20
 
-@author: Garvin Li
+@author: Gi Hun
 '''
 
 def insert_sort(list):
